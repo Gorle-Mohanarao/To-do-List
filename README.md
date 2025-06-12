@@ -10,4 +10,4 @@ JavaScript  – for interactivity and logic
 
 🔗 Link - live demo of Todo List web applicatin 
 
-https://gorle-mohanarao.github.io/Todo-List-Name/
+https://gorle-mohanarao.github.io/Todo-List/
